@@ -20,6 +20,7 @@ public class KysimusedVastused {
                 }
             }
             System.out.println();
+            //Asi
         }
     }
 }
